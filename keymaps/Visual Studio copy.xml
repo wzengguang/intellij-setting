@@ -1,12 +1,26 @@
 <keymap version="1" name="Visual Studio copy" parent="Visual Studio">
+  <action id="ActivateProjectToolWindow" />
+  <action id="CollapseAllRegions">
+    <keyboard-shortcut first-keystroke="shift ctrl subtract" />
+    <keyboard-shortcut first-keystroke="shift ctrl minus" />
+    <keyboard-shortcut first-keystroke="alt 1" />
+  </action>
   <action id="EditorDuplicate" />
-  <action id="ReformatCode">
-    <keyboard-shortcut first-keystroke="alt f8" />
-    <keyboard-shortcut first-keystroke="ctrl alt f" />
+  <action id="ExpandAllRegions">
+    <keyboard-shortcut first-keystroke="shift ctrl add" />
+    <keyboard-shortcut first-keystroke="shift ctrl equals" />
+    <keyboard-shortcut first-keystroke="alt back_quote" />
+  </action>
+  <action id="Runner.CloseOtherViews">
     <keyboard-shortcut first-keystroke="alt d" />
   </action>
   <action id="ShowIntentionActions">
     <keyboard-shortcut first-keystroke="alt enter" />
-    <keyboard-shortcut first-keystroke="alt f" />
+    <keyboard-shortcut first-keystroke="alt x" />
+  </action>
+  <action id="Vcs.QuickListPopupAction" />
+  <action id="Vcs.ReformatCommitMessage">
+    <keyboard-shortcut first-keystroke="alt f8" />
+    <keyboard-shortcut first-keystroke="ctrl alt f" />
   </action>
 </keymap>
