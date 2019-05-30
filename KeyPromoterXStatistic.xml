@@ -6,7 +6,7 @@
           <IdeaActionID>Back</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Left'</ShortCut>
           <Description>Back</Description>
-          <Count>6</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Build Project">
@@ -15,6 +15,14 @@
           <ShortCut>'F7'</ShortCut>
           <Description>Build Project</Description>
           <Count>17</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Compare With...">
+        <Item>
+          <IdeaActionID>CompareTwoFiles</IdeaActionID>
+          <ShortCut>'Ctrl+D'</ShortCut>
+          <Description>Compare With...</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug">
@@ -38,7 +46,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'F12' or 'Shift+F2' or 'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>73</Count>
+          <Count>74</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -238,7 +246,7 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Alt+F7'</ShortCut>
           <Description>Settings...</Description>
-          <Count>20</Count>
+          <Count>23</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'GunsApplication'">

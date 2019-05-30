@@ -5,15 +5,24 @@
     <keyboard-shortcut first-keystroke="shift ctrl minus" />
     <keyboard-shortcut first-keystroke="alt 1" />
   </action>
+  <action id="CompareTwoFiles" />
+  <action id="Diff.ShowDiff" />
   <action id="EditorDuplicate" />
   <action id="ExpandAllRegions">
     <keyboard-shortcut first-keystroke="shift ctrl add" />
     <keyboard-shortcut first-keystroke="shift ctrl equals" />
     <keyboard-shortcut first-keystroke="alt back_quote" />
   </action>
+  <action id="FileChooser.GotoDesktop" />
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="alt f8" />
+    <keyboard-shortcut first-keystroke="ctrl alt f" />
+    <keyboard-shortcut first-keystroke="ctrl d" />
+  </action>
   <action id="Runner.CloseOtherViews">
     <keyboard-shortcut first-keystroke="alt d" />
   </action>
+  <action id="SendEOF" />
   <action id="ShowIntentionActions">
     <keyboard-shortcut first-keystroke="alt enter" />
     <keyboard-shortcut first-keystroke="alt x" />
@@ -23,4 +32,5 @@
     <keyboard-shortcut first-keystroke="alt f8" />
     <keyboard-shortcut first-keystroke="ctrl alt f" />
   </action>
+  <action id="openAssertEqualsDiff" />
 </keymap>
