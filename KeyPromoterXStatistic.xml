@@ -102,7 +102,7 @@
           <IdeaActionID>OpenFile</IdeaActionID>
           <ShortCut>'Ctrl+O'</ShortCut>
           <Description>Open...</Description>
-          <Count>10</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Paste">
