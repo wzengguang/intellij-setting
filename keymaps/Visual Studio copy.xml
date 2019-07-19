@@ -1,5 +1,6 @@
 <keymap version="1" name="Visual Studio copy" parent="Visual Studio">
   <action id="ActivateProjectToolWindow" />
+  <action id="AddToFavoritesPopup" />
   <action id="Back">
     <keyboard-shortcut first-keystroke="ctrl alt left" />
     <mouse-shortcut keystroke="button4" />
@@ -7,6 +8,9 @@
   </action>
   <action id="CloseAllEditorsButActive">
     <keyboard-shortcut first-keystroke="alt d" />
+  </action>
+  <action id="CodeCompletion">
+    <keyboard-shortcut first-keystroke="alt f" />
   </action>
   <action id="CollapseAllRegions">
     <keyboard-shortcut first-keystroke="shift ctrl subtract" />
@@ -17,12 +21,15 @@
   <action id="Diff.ShowDiff" />
   <action id="EditorContextInfo" />
   <action id="EditorDuplicate" />
-  <action id="ExpandAllRegions">
-    <keyboard-shortcut first-keystroke="shift ctrl add" />
-    <keyboard-shortcut first-keystroke="shift ctrl equals" />
+  <action id="ExpandRegion">
+    <keyboard-shortcut first-keystroke="ctrl add" />
+    <keyboard-shortcut first-keystroke="ctrl equals" />
     <keyboard-shortcut first-keystroke="alt back_quote" />
   </action>
   <action id="FileChooser.GotoDesktop" />
+  <action id="FindUsages">
+    <keyboard-shortcut first-keystroke="alt x" />
+  </action>
   <action id="Forward">
     <keyboard-shortcut first-keystroke="ctrl alt right" />
     <mouse-shortcut keystroke="button5" />
@@ -30,11 +37,11 @@
   </action>
   <action id="GotoDeclaration">
     <keyboard-shortcut first-keystroke="f12" />
-    <keyboard-shortcut first-keystroke="shift f2" />
-    <keyboard-shortcut first-keystroke="ctrl b" />
-    <mouse-shortcut keystroke="control button1" />
     <mouse-shortcut keystroke="button2" />
     <keyboard-shortcut first-keystroke="alt w" />
+  </action>
+  <action id="GotoImplementation">
+    <keyboard-shortcut first-keystroke="alt s" />
   </action>
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="alt f8" />
@@ -42,9 +49,15 @@
     <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
   <action id="SendEOF" />
+  <action id="SetShortcutAction">
+    <keyboard-shortcut first-keystroke="alt enter" />
+  </action>
   <action id="ShowIntentionActions">
     <keyboard-shortcut first-keystroke="alt enter" />
-    <keyboard-shortcut first-keystroke="alt x" />
+    <keyboard-shortcut first-keystroke="alt v" />
+  </action>
+  <action id="SmartTypeCompletion">
+    <keyboard-shortcut first-keystroke="shift alt f" />
   </action>
   <action id="Vcs.QuickListPopupAction" />
   <action id="Vcs.ReformatCommitMessage">

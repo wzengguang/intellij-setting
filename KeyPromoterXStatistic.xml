@@ -78,7 +78,7 @@
           <IdeaActionID>FindUsages</IdeaActionID>
           <ShortCut>'Alt+Shift+F7'</ShortCut>
           <Description>Find Usages</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Implementation(s)">
@@ -246,7 +246,7 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Alt+F7'</ShortCut>
           <Description>Settings...</Description>
-          <Count>23</Count>
+          <Count>26</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'GunsApplication'">
