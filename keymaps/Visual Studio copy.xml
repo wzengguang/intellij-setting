@@ -5,6 +5,9 @@
     <mouse-shortcut keystroke="button4" />
     <keyboard-shortcut first-keystroke="alt q" />
   </action>
+  <action id="CloseAllEditorsButActive">
+    <keyboard-shortcut first-keystroke="alt d" />
+  </action>
   <action id="CollapseAllRegions">
     <keyboard-shortcut first-keystroke="shift ctrl subtract" />
     <keyboard-shortcut first-keystroke="shift ctrl minus" />
@@ -37,9 +40,6 @@
     <keyboard-shortcut first-keystroke="alt f8" />
     <keyboard-shortcut first-keystroke="ctrl alt f" />
     <keyboard-shortcut first-keystroke="ctrl d" />
-  </action>
-  <action id="Runner.CloseOtherViews">
-    <keyboard-shortcut first-keystroke="alt d" />
   </action>
   <action id="SendEOF" />
   <action id="ShowIntentionActions">
