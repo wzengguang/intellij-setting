@@ -102,7 +102,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'Delete'</ShortCut>
           <Description>Delete...</Description>
-          <Count>23</Count>
+          <Count>47</Count>
         </Item>
       </Statistic>
       <Statistic Action="Execute">
@@ -126,7 +126,7 @@
           <IdeaActionID>FindUsages</IdeaActionID>
           <ShortCut>'Alt+Shift+F7'</ShortCut>
           <Description>Find Usages</Description>
-          <Count>11</Count>
+          <Count>15</Count>
         </Item>
       </Statistic>
       <Statistic Action="Implementation(s)">
@@ -167,6 +167,14 @@
           <ShortCut>'Ctrl+O'</ShortCut>
           <Description>Open...</Description>
           <Count>22</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Optimize Imports">
+        <Item>
+          <IdeaActionID>OptimizeImports</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+O'</ShortCut>
+          <Description>Optimize Imports</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Paste">
