@@ -78,7 +78,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Alt+F5'</ShortCut>
           <Description>Debug 'MallAdminApplication'</Description>
-          <Count>11</Count>
+          <Count>13</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'WebApplication'">
@@ -94,7 +94,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'F12' or 'Shift+F2' or 'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>138</Count>
+          <Count>139</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -126,7 +126,7 @@
           <IdeaActionID>FindUsages</IdeaActionID>
           <ShortCut>'Alt+Shift+F7'</ShortCut>
           <Description>Find Usages</Description>
-          <Count>16</Count>
+          <Count>17</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide All Windows">
@@ -174,7 +174,7 @@
           <IdeaActionID>OpenFile</IdeaActionID>
           <ShortCut>'Ctrl+O'</ShortCut>
           <Description>Open...</Description>
-          <Count>22</Count>
+          <Count>23</Count>
         </Item>
       </Statistic>
       <Statistic Action="Optimize Imports">
@@ -302,7 +302,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Run 'MallAdminApplication'</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'MallDemoApplication'">
@@ -382,7 +382,7 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Alt+F7'</ShortCut>
           <Description>Settings...</Description>
-          <Count>44</Count>
+          <Count>47</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'AdminApplication'">
@@ -414,7 +414,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Shift+F5'</ShortCut>
           <Description>Stop 'MallAdminApplication'</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'RuoYiApplication'">
