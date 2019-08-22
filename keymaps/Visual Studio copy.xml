@@ -18,6 +18,7 @@
     <keyboard-shortcut first-keystroke="alt 1" />
   </action>
   <action id="CompareTwoFiles" />
+  <action id="Console.TableResult.SetDefault" />
   <action id="Diff.ShowDiff" />
   <action id="EditorContextInfo" />
   <action id="EditorDuplicate" />
@@ -44,6 +45,10 @@
     <keyboard-shortcut first-keystroke="alt s" />
   </action>
   <action id="GotoPreviousError" />
+  <action id="OptimizeImports">
+    <keyboard-shortcut first-keystroke="ctrl alt o" />
+    <keyboard-shortcut first-keystroke="ctrl alt d" />
+  </action>
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="alt f8" />
     <keyboard-shortcut first-keystroke="ctrl alt f" />
