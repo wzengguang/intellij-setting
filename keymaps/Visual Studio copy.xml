@@ -14,6 +14,10 @@
   <action id="CloseAllEditorsButActive">
     <keyboard-shortcut first-keystroke="alt d" />
   </action>
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl f4" />
+    <keyboard-shortcut first-keystroke="alt s" />
+  </action>
   <action id="CodeCompletion">
     <keyboard-shortcut first-keystroke="alt f" />
   </action>
@@ -54,9 +58,7 @@
     <mouse-shortcut keystroke="button2" />
     <keyboard-shortcut first-keystroke="alt w" />
   </action>
-  <action id="GotoImplementation">
-    <keyboard-shortcut first-keystroke="alt s" />
-  </action>
+  <action id="GotoImplementation" />
   <action id="GotoNextError" />
   <action id="GotoNextIncompletePropertyAction" />
   <action id="GotoPreviousError" />
